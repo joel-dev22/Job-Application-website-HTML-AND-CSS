@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  /* font-size: 62.5%; */
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ccc;
+}
+
+.container {
+  max-width: 90rem;
+  margin: 0 auto;
+}
+
+.apply_box {
+  max-width: 60rem;
+  padding: 2rem;
+  background-color: #fff;
+  margin: 0 auto;
+  margin-top: 5rem;
+  box-shadow: 0.4rem 0.3rem 0.5rem rgba(1, 1, 1, 0.1);
+  border-radius: 1rem;
+}
+
+.title_small {
+  font-size: 20px;
+}
